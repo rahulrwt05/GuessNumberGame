@@ -33,7 +33,7 @@ You can play the Number Guessing Game [here](https://rahulrwt05.github.io/GuessN
 
 ### Screenshots
 
-![Number Guessing Game](https://github.com/rahulrwt05/GuessNumberGame/blob/main/guessno.jpg)
+![Number Guessing Game](https://github.com/rahulrwt05/30-days-of-js/blob/main/images/guessno.jpg))
 *Screenshot showcasing the Number Guessing Game project*
 
 ## Future Enhancements
